@@ -133,16 +133,16 @@ lib/
 ## Ekran Görüntüleri
 
 ### Karşılama Sayfası
-![Karşılama Sayfası](../assets/screenshots/welcome.png)
+![Karşılama Sayfası](glowup_project/assets/screenshots/welcome.png)
 
 ### Ana Sayfa
-![Ana Sayfa](../assets/screenshots/home.png)
+![Ana Sayfa](glowup_project/assets/screenshots/home.png)
 
 ### Kayıt Ol Sayfası
-![Kayıt Ol Sayfası](./assets/screenshots/register.png)
+![Kayıt Ol Sayfası](glowup_project/assets/screenshots/register.png)
   
 ### Giriş Yap Sayfası
-![Giriş Yap Sayfası](./assets/screenshots/login.png)
+![Giriş Yap Sayfası](glowup_project/assets/screenshots/login.png)
 
 
 ## Projeye Katkı Sağlama
