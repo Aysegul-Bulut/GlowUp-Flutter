@@ -5,7 +5,7 @@
 
 ## Proje Hakkında
 
-[**GlowUp: Kişisel Bakım ve Gelişim Asistanınız**
+**GlowUp: Kişisel Bakım ve Gelişim Asistanınız**
 
 GlowUp, cilt bakımından kişisel gelişime kadar yaşamınızı organize etmenize yardımcı olan bir uygulamadır. Cilt bakımında ihtiyaçlarınıza özel rutinler oluşturarak hatırlatmalar gönderir ve sağlıklı bir cilt için gereken adımları düzenli olarak takip etmenizi sağlar. Ancak GlowUp sadece bir cilt bakım uygulaması değildir; aynı zamanda kişisel gelişiminize de odaklanır.  
 
