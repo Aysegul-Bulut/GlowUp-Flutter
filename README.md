@@ -133,10 +133,10 @@ lib/
 ## Ekran Görüntüleri
 
 ### Karşılama Sayfası
-![Karşılama Sayfası](./assets/screenshots/welcome.png)
+![Karşılama Sayfası](../assets/screenshots/welcome.png)
 
 ### Ana Sayfa
-![Ana Sayfa](./assets/screenshots/home.png)
+![Ana Sayfa](../assets/screenshots/home.png)
 
 ### Kayıt Ol Sayfası
 ![Kayıt Ol Sayfası](./assets/screenshots/register.png)
