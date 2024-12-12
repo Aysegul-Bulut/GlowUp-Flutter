@@ -132,17 +132,25 @@ lib/
 
 ## Ekran Görüntüleri
 
-### Karşılama Sayfası
-![Karşılama Sayfası](glowup_project/assets/screenshots/welcome.png)
+<div align="center">
+    <h3>Karşılama Sayfası</h3>
+    <img src="glowup_project/assets/screenshots/welcome.png" alt="Karşılama Sayfası" width="50%">
+</div>
 
-### Ana Sayfa
-![Ana Sayfa](glowup_project/assets/screenshots/home.png)
+<div align="center">
+    <h3>Ana Sayfa</h3>
+    <img src="glowup_project/assets/screenshots/home.png" alt="Ana Sayfa" width="50%">
+</div>
 
-### Kayıt Ol Sayfası
-![Kayıt Ol Sayfası](glowup_project/assets/screenshots/register.png)
-  
-### Giriş Yap Sayfası
-![Giriş Yap Sayfası](glowup_project/assets/screenshots/login.png)
+<div align="center">
+    <h3>Kayıt Ol Sayfası</h3>
+    <img src="glowup_project/assets/screenshots/register.png" alt="Kayıt Ol Sayfası" width="50%">
+</div>
+
+<div align="center">
+    <h3>Giriş Yap Sayfası</h3>
+    <img src="glowup_project/assets/screenshots/login.png" alt="Giriş Yap Sayfası" width="50%">
+</div>
 
 
 ## Projeye Katkı Sağlama
